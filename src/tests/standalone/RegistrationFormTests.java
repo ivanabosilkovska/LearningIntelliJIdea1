@@ -11,6 +11,7 @@ public class RegistrationFormTests {
         System.out.println("commit from intellij");
         System.out.println("testing");
         System.out.println("new commit - amend");
+        System.out.println("second commit");
     }
 
     String a;
