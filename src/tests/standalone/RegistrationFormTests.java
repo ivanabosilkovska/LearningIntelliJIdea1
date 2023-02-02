@@ -8,6 +8,7 @@ public class RegistrationFormTests {
         sayHello("Emilija");
 
         System.out.println("Learning GIT");
+        System.out.println("commit from intellij");
 
     }
 
