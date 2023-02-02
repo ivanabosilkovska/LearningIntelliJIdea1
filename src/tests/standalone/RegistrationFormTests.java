@@ -7,6 +7,8 @@ public class RegistrationFormTests {
         System.out.println("Hello world!");
         sayHello("Emilija");
 
+        System.out.println("Learning GIT");
+
     }
 
     String a;
