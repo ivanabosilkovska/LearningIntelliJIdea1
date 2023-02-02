@@ -9,7 +9,7 @@ public class RegistrationFormTests {
 
         System.out.println("Learning GIT");
         System.out.println("commit from intellij");
-
+        System.out.println("testing");
     }
 
     String a;
