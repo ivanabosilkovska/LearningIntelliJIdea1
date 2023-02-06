@@ -5,5 +5,7 @@ public class LoginFormTests {
 
         System.out.println("Adding new automation tests for Login form");
 
+        System.out.println("added new negative test");
+
     }
 }
